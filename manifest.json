@@ -1,0 +1,17 @@
+
+{
+  "name": "JSON Prompt Discovery Engine",
+  "short_name": "JSON Prompter",
+  "description": "Discover and generate JSON prompts and schemas using AI.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#0a0a0a",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/5968/5968292.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
